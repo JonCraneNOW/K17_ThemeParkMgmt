@@ -22,7 +22,7 @@
         <sys_class_name>sc_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-26 01:55:50</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6dfcd1284f75b640bf0ecfce0310c757</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Dining</sys_name>
@@ -40,7 +40,6 @@
         <average_image_color>#90b0a</average_image_color>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>icon</file_name>
         <image_height>84</image_height>
         <image_width>94</image_width>

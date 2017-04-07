@@ -50,7 +50,7 @@
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-27 18:15:33</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>f1b6ce414f753a40bf0ecfce0310c7b2</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Ticketing request</sys_name>
@@ -112,7 +112,6 @@
         <average_image_color>#fefefe</average_image_color>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
-        <encryption_context/>
         <file_name>icon</file_name>
         <image_height>70</image_height>
         <image_width>70</image_width>

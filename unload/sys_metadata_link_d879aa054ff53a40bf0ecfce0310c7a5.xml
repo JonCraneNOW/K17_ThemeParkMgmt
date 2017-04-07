@@ -55,7 +55,7 @@
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-27 20:46:47</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d879aa054ff53a40bf0ecfce0310c7a5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>KB0010975</sys_name>

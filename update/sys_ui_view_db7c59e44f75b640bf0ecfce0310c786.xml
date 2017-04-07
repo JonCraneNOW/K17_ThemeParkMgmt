@@ -8,7 +8,7 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-26 01:53:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>db7c59e44f75b640bf0ecfce0310c786</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Theme Park Managemetn Catalog View</sys_name>

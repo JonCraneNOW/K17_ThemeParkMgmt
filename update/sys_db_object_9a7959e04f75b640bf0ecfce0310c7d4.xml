@@ -17,11 +17,11 @@
         <number_ref display_value="TPR">477995244f75b640bf0ecfce0310c7fc</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">d4c027e113272a00c6bbb09f3244b053</super_class>
+        <super_class display_value="Task" name="task">2ec5f0a41d0132007f441e50bdb065e7</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-26 01:40:27</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9a7959e04f75b640bf0ecfce0310c7d4</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Theme Park Request</sys_name>

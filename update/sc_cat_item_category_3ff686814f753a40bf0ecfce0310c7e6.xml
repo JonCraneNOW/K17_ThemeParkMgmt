@@ -6,7 +6,7 @@
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-27 18:16:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3ff686814f753a40bf0ecfce0310c7e6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Ticketing.Ticketing request</sys_name>

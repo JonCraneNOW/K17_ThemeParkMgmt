@@ -3,13 +3,13 @@
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2017-03-28 21:45:40</change_date>
         <changed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</changed_by>
-        <content display_value="Event Management Guided Setup">88e2668b13e1120009c43d62f244b0da</content>
+        <content display_value="">88e2668b13e1120009c43d62f244b0da</content>
         <related_change_log_entry/>
         <related_task_entry/>
         <sys_class_name>gsw_change_log</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-28 21:45:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a0808c254ff97a40bf0ecfce0310c796</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>2017-03-28 21:45:40</sys_name>
